@@ -1,0 +1,9 @@
+preloader-wrapper{
+	display:none;	
+}
+#loading-image {   
+ position: absolute;   
+ top: 30%;   
+ left: 45%;   
+ z-index: 100; 
+ } 
